@@ -3,4 +3,6 @@ When the app is launched, it uses the microphone to identify a song using Shazam
 
 # setup 
 1. You need to get a cookie from spotify's web client inorder to use this app. A detailed guide can be found [here](https://github.com/akashrchandran/syrics/wiki/Finding-sp_dc) 
-2. Paste the cookie in the SpotifyConfig file
+  - Paste the cookie in the SpotifyConfig file
+
+2. You also need a paid Apple developer account to build this app
